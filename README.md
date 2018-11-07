@@ -1,1 +1,1 @@
-# RaffApp developed by Team 1
+# RaffApp
